@@ -13,7 +13,7 @@ Este repositorio reúne **cuadernos de procesamiento, tablas exportadas y figura
 
 **No contiene los registros de audio originales** (`.wav`). Estos se conservan respaldados por los autores y se facilitan bajo solicitud razonada para replicar el procesamiento. Si alguien desea solicitar los audios para replicar todo, puede escribir a **`santiago.grajales1@utp.edu.co`** o a **`santiago0623.iesa2002@gmail.com`**.
 
-La reproducción completa de los cuadernos requiere esos registros; las tablas y figuras aquí publicadas son las salidas ya generadas y son verificables de forma independiente. El PDF compilado del manuscrito se adjunta como activo del release `v1.0-tesis`.
+La reproducción completa de los cuadernos requiere esos registros; las tablas y figuras aquí publicadas son las salidas ya generadas y son verificables de forma independiente. El documento completo de la tesis (PDF) se reserva para su entrega formal ante la universidad y no se adjunta en este repositorio ni en el release.
 
 ---
 
