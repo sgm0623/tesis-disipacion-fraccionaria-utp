@@ -1,0 +1,5 @@
+estrato,n_tomas_un_toque,sigma1_mediana_s-1,sigma1_IQR_s-1,IQR_sobre_mediana,G5_estratificado_PASS,aporta_a_cota
+dedo_L2,3,1.1108,0.3051,0.275,True,True
+dedo_L4,3,0.5756,0.2326,0.404,False,False
+pua_L2,3,0.4797,0.3641,0.759,False,False
+pua_L4,3,0.4829,0.4308,0.892,False,False
